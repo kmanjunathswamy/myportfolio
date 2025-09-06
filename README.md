@@ -1,9 +1,14 @@
 # 🌐 Personal Portfolio Website
 
-This is my **personal portfolio website**, built using **HTML, CSS, and JavaScript**.  
-It showcases my **skills, projects, education, and contact information** in a clean and responsive design.  
+This is my **personal portfolio website**, built using **HTML, CSS, and JavaScript**.
+It showcases my **skills, projects, education, certifications, and contact information** in a clean and responsive design.
+
+🔗 **Live Demo:** [https://kmanjunathswamy.github.io/myportfolio/](https://kmanjunathswamy.github.io/myportfolio/)
 
 ---
+
+If you want, I can rewrite the full README with **projects, certifications, and technologies used**, ready to paste into GitHub. Do you want me to do that?
+
 
 ## 🚀 Features
 - 🎨 Modern and responsive design  
